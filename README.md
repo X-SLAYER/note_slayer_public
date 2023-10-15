@@ -22,6 +22,7 @@ sudo dpkg -i screen_slayer.deb
 
 ## Preview
 
+https://github.com/X-SLAYER/note_slayer_public/assets/22800380/fadb9dd0-7b63-4fb5-9b36-a958442c865c
 
 
 ## Features
