@@ -6,9 +6,13 @@ Slaying Forgetfulness, One Note at a Time. 🚀📝
 
 ## Platform Support
 
-| Linux | macOS | Windows |
-| :---: | :---: | :-----: |
-|  ✅   |  ✅   |   ✅    |
+### Downloads:
+
+| Platform | Version | Link                |
+| -------- | ------- | ------------------- |
+| Windows  | ✅      | [Download (.exe)](https://github.com/X-SLAYER/screen_slayer_public/releases/download/v0.0.1/screen_slayer_release-1.0.0+1-windows.exe) |
+| Mac      | ✅      | [Download (.exe)](https://github.com/X-SLAYER/screen_slayer_public/releases/download/v0.0.1/screen_slayer_release-1.0.0+1-windows.exe) |
+| Linux    | ✅      | [Download (.deb)](https://github.com/X-SLAYER/screen_slayer_public/releases/download/v0.0.1/screen_slayer.deb) |
 
 ## Installation
 
