@@ -21,7 +21,7 @@ Slaying Forgetfulness, One Note at a Time. 🚀📝
 Run the following command after downloading the .deb file
 
 ```
-sudo dpkg -i screen_slayer.deb
+sudo dpkg -i note_slayer_linux.deb
 ```
 
 ## Preview
