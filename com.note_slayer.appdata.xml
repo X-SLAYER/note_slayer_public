@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>com.note_slayer.app</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0</project_license>
+    <name>NoteSLAYER</name>
+    <summary>Your mental battleground for capturing and conquering ideas</summary>
+    <description>
+        <p>Your mental battleground for capturing and conquering ideas.</p>
+        <p> ⭐ Swiftly add and manage notes. </p>
+        <p>⭐ Organize with tags and dedicated folders.</p>
+        <p>⭐ Directly link notes to specific tags for optimal organization.</p>
+        <p>⭐ Effortlessly filter by tags or folders.</p>
+        <p>⭐ Powerful in-note search functionality.</p>
+        <p>⭐ Personalize your experience with dark/light themes.</p>
+        <p>⭐ Integrate tasks within notes for holistic planning.</p>
+        <p>⭐ Kanban boards to oversee and manage tasks.</p>
+        <p>⭐ Flexibility to reorder Kanban cards and groups for priority management.</p>
+        <p>⭐ Export tasks seamlessly to Excel.</p>
+    </description>
+    <url type="homepage">https://note-slayer.com</url>
+    <url type="help">https://github.com/X-SLAYER/note_slayer_public</url>
+    <url type="bugtracker">https://github.com/X-SLAYER/note_slayer_public/issues</url>
+    <url type="details">https://github.com/X-SLAYER/note_slayer_public</url>
+    <launchable type="desktop-id">com.note_slayer.app.desktop</launchable>
+    <releases>
+        <release version="1.3.14" date="2023-10-19">
+            <description>
+                <p> First version of the app. 🚀📝</p>
+            </description>
+        </release>
+    </releases>
+    <developer_name>X-SLAYER</developer_name>
+    <screenshots>
+        <screenshot type="default">
+            <image type="source">https://raw.githubusercontent.com/X-SLAYER/note_slayer_public/main/assets/note-slayer-sc1.png</image>
+            <image type="source">https://raw.githubusercontent.com/X-SLAYER/note_slayer_public/main/assets/note-slayer-kanban.png</image>
+        </screenshot>
+    </screenshots>
+    <content_rating type="oars-1.1">
+    </content_rating>
+</component>
