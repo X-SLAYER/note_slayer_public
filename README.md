@@ -10,9 +10,9 @@ Slaying Forgetfulness, One Note at a Time. 🚀📝
 
 | Platform | Version | Link                |
 | -------- | ------- | ------------------- |
-| Windows  | ✅      | [Download (.exe)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.1/NoteSLAYER.Setup.exe) |
+| Windows  | ✅      | [Download (.msix)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.2/NoteSLAYER.msix) |
 | Mac      | ✅      | [Download (.dmg)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.1/NoteSLAYER.dmg) |
-| Linux    | ✅      | [Download (.deb)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.1/note_slayer_linux.deb) |
+| Linux    | ✅      | [Download (.deb)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.2/NoteSLAYER_v0.2.deb) |
 
 ## Installation
 
