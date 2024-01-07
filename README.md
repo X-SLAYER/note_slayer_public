@@ -14,6 +14,10 @@ Slaying Forgetfulness, One Note at a Time. 🚀📝
 | Mac      | ✅      | [Download (.dmg)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.1/NoteSLAYER.dmg) |
 | Linux    | ✅      | [Download (.deb)](https://github.com/X-SLAYER/note_slayer_public/releases/download/V0.2/NoteSLAYER_v0.2.deb) |
 
+<a href='https://apps.microsoft.com/detail/9N3VND6XT73V?referrer=appbadge&source=note-slayer.com&hl=en-us&gl=US'>
+ <img part="img" height='80' src="https://get.microsoft.com/images/en-us dark.svg">
+</a>
+
 ## Installation
 
 ### Linux
