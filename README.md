@@ -45,6 +45,6 @@ https://github.com/X-SLAYER/note_slayer_public/assets/22800380/fadb9dd0-7b63-4fb
 - [x] Link tasks to note
 - [x] Kanban board to manage tasks
 - [x] Reorder kanban cards & groups
+- [x] Automation system that makes it easy to automate actions.
 - [ ] Add custom priorities/status
 - [ ] Export/import all data
-- [ ] Automation system that makes it easy to automate actions.
